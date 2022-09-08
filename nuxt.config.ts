@@ -13,7 +13,14 @@ export default defineNuxtConfig({
         },
       },
     },
-    transpile: ["@apollo/client", "ts-invariant/process", "graphql", "@vue/apollo-composable","@pinia/nuxt"],
+    transpile: [
+      "@apollo/client",
+      "ts-invariant/process",
+      "graphql",
+      "@vue/apollo-composable",
+      "@pinia/nuxt",
+      "@heroicons/vue",
+    ],
   },
 
   ssr: true,
@@ -22,19 +29,13 @@ export default defineNuxtConfig({
     [
       "@pinia/nuxt",
       {
-        autoImports: [
-          "defineStore",
-          ["defineStore", "definePiniaStore"],
-        ],
+        autoImports: ["defineStore", ["defineStore", "definePiniaStore"]],
       },
     ],
   ],
 
   vite: {
-    plugins: [
-      graphql(),
-      svgLoader({}),
-    ],
+    plugins: [graphql(), svgLoader({})],
   },
 
   css: ["~/assets/css/main.css"],
