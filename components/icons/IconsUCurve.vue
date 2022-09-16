@@ -9,37 +9,5 @@ const theme = useTheme()
                 :fill-opacity="theme ? '0.5' : '0.5'" />     
         <path d="M709 174L1440 42V270H0V174C77 302 523 214 709 174Z" :fill="theme ? '#1A1C22' : '#F5F5F5'"
                 :fill-opacity="theme ? '0.7' : '0.6'" />   
-        <!-- <g filter="url(#filter0_b_448_678)">
-            
-        </g>
-        <g filter="url(#filter1_b_448_678)">
-            
-        </g>
-        <g filter="url(#filter2_b_448_678)">
-            
-        </g>
-        <defs>
-            <filter id="filter0_b_448_678" x="-4" y="-4" width="1448" height="278" filterUnits="userSpaceOnUse"
-                color-interpolation-filters="sRGB">
-                <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                <feGaussianBlur in="BackgroundImage" stdDeviation="2" />
-                <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_448_678" />
-                <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_448_678" result="shape" />
-            </filter>
-            <filter id="filter1_b_448_678" x="-4" y="16" width="1448" height="258" filterUnits="userSpaceOnUse"
-                color-interpolation-filters="sRGB">
-                <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                <feGaussianBlur in="BackgroundImage" stdDeviation="2" />
-                <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_448_678" />
-                <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_448_678" result="shape" />
-            </filter>
-            <filter id="filter2_b_448_678" x="-4" y="38" width="1448" height="236" filterUnits="userSpaceOnUse"
-                color-interpolation-filters="sRGB">
-                <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                <feGaussianBlur in="BackgroundImage" stdDeviation="2" />
-                <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_448_678" />
-                <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_448_678" result="shape" />
-            </filter>
-        </defs> -->
     </svg>
 </template>
