@@ -46,7 +46,7 @@ const formatedEndorse = (endorsement) => {
     class="absolute xl:bottom-[36%] md:bottom-[24%] sm:bottom-[16%] bottom-0 sm:right-6 right-4 flex sm:gap-8 gap-6 items-end"
   >
     <p class="sm:text-sm text-xs font-semibold text-primary">
-      {{ formatedEndorse(endorsement) }} endorsements
+      {{ formatedEndorse(endorsement) }} <span class="sm:inline hidden">endorsements</span>
     </p>
     <button
       type="button"
