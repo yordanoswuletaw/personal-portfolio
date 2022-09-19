@@ -43,7 +43,7 @@ const formatedEndorse = (endorsement) => {
 </script>
 <template>
   <div
-    class="absolute xl:bottom-[36%] md:bottom-[24%] sm:bottom-[16%] bottom-0 sm:right-6 right-4 flex sm:gap-8 gap-6 items-end"
+    class="absolute xl:bottom-[36%] md:bottom-[24%] sm:bottom-[16%] bottom-0 sm:right-6 right-4 flex sm:gap-8 gap-4 items-center"
   >
     <p class="sm:text-sm text-xs font-semibold text-primary">
       {{ formatedEndorse(endorsement) }} <span class="sm:inline hidden">endorsements</span>
