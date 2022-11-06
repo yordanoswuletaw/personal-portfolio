@@ -1,5 +1,5 @@
 query projects {
-    project(order_by: { id: asc }) {
+    project(order_by: { id: desc }) {
       id
       ptitle
       ptype
