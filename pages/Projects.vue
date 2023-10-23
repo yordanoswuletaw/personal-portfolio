@@ -53,9 +53,9 @@ definePageMeta({
     </div>
 
     <div class="flex items-center justify-center flex-col mt-14">
-      <h4 class="font-semibold text-dark dark:text-light transition-colors ease-in-out duration-300">Machine Learning
+      <h4 class="font-semibold text-dark dark:text-light transition-colors ease-in-out duration-300 mb-5">Machine Learning
         Projects</h4>
-      <div class="flex items-center xl:gap-24 md:gap-16 gap-10 flex-wrap justify-center mx-8">
+      <div class="flex items-center xl:gap-x-24 md:gap-x-16 gap-x-10 flex-wrap justify-center mx-8">
         <CardsMlProject v-for="project in ml" :key="project.id" :project="project" />
       </div>
     </div>
