@@ -25,8 +25,8 @@ const handleVisit = () => {
 
 </script>
 <template>
-    <div class="group flex items-center flex-col justify-center my-1 w-48">
-        <img src="~/assets/ml.svg?url" alt="mlicon" class="m-1">
+    <div class="group flex items-center flex-col justify-center my-2 w-48">
+        <img src="~/assets/ml.svg?url" alt="mlicon" class="m-1 pt-0.5">
         <h3 class="font-bold text-dark text-center dark:text-light transition-colors ease-in-out duration-300">
             {{ project.ptitle }}</h3>
         <p class="text-xs text-center text-dark dark:text-light transition-colors ease-in-out duration-300">
