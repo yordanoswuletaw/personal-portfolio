@@ -46,7 +46,7 @@ const onThemeSwitch = () => {
                         src="~/assets/LinkedIn.svg?url" alt="linkeding" /></a>
                  <a href="https://www.upwork.com/freelancers/~01bda3e2e690665627?viewMode=1" target="_blank"><img src="~/assets/Upwork.svg?url"
                         alt="upwork" /></a>        
-                <a href="https://github.com/J0RdN-w" target="_blank"><img src="~/assets/GitHub.svg?url"
+                <a href="https://github.com/yordanoswuletaw" target="_blank"><img src="~/assets/GitHub.svg?url"
                         alt="github" /></a>
                 <a href="https://stackoverflow.com/users/19396835/j0rdn" target="_blank"> <img
                         src="~/assets/StackOverflow.svg?url" alt="stackoverflow" /></a>
@@ -74,7 +74,7 @@ const onThemeSwitch = () => {
                             src="~/assets/LinkedIn.svg?url" alt="linkeding" /></a>
                      <a href="https://www.upwork.com/freelancers/~01bda3e2e690665627?viewMode=1" target="_blank"><img src="~/assets/Upwork.svg?url"
                         alt="upwork" /></a>
-                    <a href="https://github.com/J0RdN-w" target="_blank"><img src="~/assets/GitHub.svg?url"
+                    <a href="https://github.com/yordanoswuletaw" target="_blank"><img src="~/assets/GitHub.svg?url"
                             alt="github" /></a>
                     <a href="https://stackoverflow.com/users/19396835/j0rdn" target="_blank"> <img
                             src="~/assets/StackOverflow.svg?url" alt="stackoverflow" /></a>
