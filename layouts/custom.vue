@@ -46,7 +46,7 @@ const onThemeSwitch = () => {
                         src="~/assets/LinkedIn.svg?url" alt="linkeding" /></a>      
                 <a href="https://github.com/yordanoswuletaw" target="_blank"><img src="~/assets/GitHub.svg?url"
                         alt="github" /></a>
-                 <a href="https://leetcode.com/u/yordanoswuletaw/" target="_blank"><img src="~/assets/leetcode.svg?"
+                 <a href="https://leetcode.com/u/yordanoswuletaw/" target="_blank"><img src="~/assets/leetcode.svg?url"
                         alt="leetcode" /></a>
                
             </div>
@@ -78,7 +78,7 @@ const onThemeSwitch = () => {
                     rights
                     reserved.</p>
                 <div class="flex items-center gap-8 text-xs hover:text-primarys">
-                    <a href="https://twitter.com/_randomchain" target="_blank" class="flex items-center hover:text-secondary transition-colors ease-in-out duration-300"> <img
+                    <a href="https://twitter.com/yordanos219" target="_blank" class="flex items-center hover:text-secondary transition-colors ease-in-out duration-300"> <img
                             src="~/assets/tweeter.svg?url" alt="tweeter"> twitter </a>
                     <a href="https://t.me/yordanos219" target="_blank" class="flex items-center hover:text-secondary transition-colors ease-in-out duration-300"> <img
                             src="~/assets/telegram.svg?url" alt="tweeter"> telegram </a>
