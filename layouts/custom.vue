@@ -77,7 +77,7 @@ const onThemeSwitch = () => {
                 <div class="flex items-center gap-8 text-xs hover:text-primarys">
                     <a href="https://twitter.com/_randomchain" target="_blank" class="flex items-center hover:text-secondary transition-colors ease-in-out duration-300"> <img
                             src="~/assets/tweeter.svg?url" alt="tweeter"> twitter </a>
-                    <a href="https://t.me/random_chain" target="_blank" class="flex items-center hover:text-secondary transition-colors ease-in-out duration-300"> <img
+                    <a href="https://t.me/yordanos219" target="_blank" class="flex items-center hover:text-secondary transition-colors ease-in-out duration-300"> <img
                             src="~/assets/telegram.svg?url" alt="tweeter"> telegram </a>
                 </div>
             </footer>
