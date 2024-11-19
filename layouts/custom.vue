@@ -43,13 +43,9 @@ const onThemeSwitch = () => {
             <div
                 :class="[theme ? 'sm:flex hidden md:gap-12 sm:gap-8 items-center invert-0 transition-all ease-in-out duration-300' : 'sm:flex hidden md:gap-12 sm:gap-8 items-center invert transition-all ease-in-out duration-300']">
                 <a href="https://www.linkedin.com/in/yordanos-wuletaw/" target="_blank"><img
-                        src="~/assets/LinkedIn.svg?url" alt="linkeding" /></a>
-                 <a href="https://www.upwork.com/freelancers/~01bda3e2e690665627?viewMode=1" target="_blank"><img src="~/assets/Upwork.svg?url"
-                        alt="upwork" /></a>        
+                        src="~/assets/LinkedIn.svg?url" alt="linkeding" /></a>      
                 <a href="https://github.com/yordanoswuletaw" target="_blank"><img src="~/assets/GitHub.svg?url"
                         alt="github" /></a>
-                <a href="https://stackoverflow.com/users/19396835/j0rdn" target="_blank"> <img
-                        src="~/assets/StackOverflow.svg?url" alt="stackoverflow" /></a>
             </div>
         </nav>
 
@@ -72,12 +68,8 @@ const onThemeSwitch = () => {
                     :class="[theme ? 'sm:hidden flex gap-16 items-center invert-0 transition-all ease-in-out duration-300 py-1' : 'sm:hidden flex  items-center invert gap-16 transition-all ease-in-out duration-300 py-1']">
                     <a href="https://www.linkedin.com/in/yordanos-wuletaw/" target="_blank"><img
                             src="~/assets/LinkedIn.svg?url" alt="linkeding" /></a>
-                     <a href="https://www.upwork.com/freelancers/~01bda3e2e690665627?viewMode=1" target="_blank"><img src="~/assets/Upwork.svg?url"
-                        alt="upwork" /></a>
                     <a href="https://github.com/yordanoswuletaw" target="_blank"><img src="~/assets/GitHub.svg?url"
                             alt="github" /></a>
-                    <a href="https://stackoverflow.com/users/19396835/j0rdn" target="_blank"> <img
-                            src="~/assets/StackOverflow.svg?url" alt="stackoverflow" /></a>
                 </div>
                 <p class="text-xs sm:-order-1 order-2 ">Copyright &copy; {{ (new Date()).getFullYear() }} J0RdN-w. All
                     rights
