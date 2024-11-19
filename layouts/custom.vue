@@ -73,6 +73,8 @@ const onThemeSwitch = () => {
                             src="~/assets/LinkedIn.svg?url" alt="linkeding" /></a>
                     <a href="https://github.com/yordanoswuletaw" target="_blank"><img src="~/assets/GitHub.svg?url"
                             alt="github" /></a>
+                    <a href="https://leetcode.com/u/yordanoswuletaw/" target="_blank"><img src="~/assets/leetcode.svg?url"
+                        alt="leetcode" /></a>
                 </div>
                 <p class="text-xs sm:-order-1 order-2 ">Copyright &copy; {{ (new Date()).getFullYear() }} J0RdN-w. All
                     rights
