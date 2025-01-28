@@ -43,7 +43,7 @@ const onThemeSwitch = () => {
             <div
                 :class="[theme ? 'sm:flex hidden md:gap-12 sm:gap-8 items-center invert-0 transition-all ease-in-out duration-300' : 'sm:flex hidden md:gap-12 sm:gap-8 items-center invert transition-all ease-in-out duration-300']">
                 <a href="https://www.linkedin.com/in/yordanos-wuletaw/" target="_blank"><img
-                        src="~/assets/LinkedIn.svg?url" alt="linkeding" /></a>      
+                        src="~/assets/LinkedIn.svg?url" alt="ln" /></a>      
                 <a href="https://github.com/yordanoswuletaw" target="_blank"><img src="~/assets/GitHub.svg?url"
                         alt="github" /></a>
                  <a href="https://leetcode.com/u/yordanoswuletaw/" target="_blank"><img src="~/assets/leetcode.svg?url"
@@ -70,7 +70,7 @@ const onThemeSwitch = () => {
                 <div
                     :class="[theme ? 'sm:hidden flex gap-16 items-center invert-0 transition-all ease-in-out duration-300 py-1' : 'sm:hidden flex  items-center invert gap-16 transition-all ease-in-out duration-300 py-1']">
                     <a href="https://www.linkedin.com/in/yordanos-wuletaw/" target="_blank"><img
-                            src="~/assets/LinkedIn.svg?url" alt="linkeding" /></a>
+                            src="~/assets/LinkedIn.svg?url" alt="ln" /></a>
                     <a href="https://github.com/yordanoswuletaw" target="_blank"><img src="~/assets/GitHub.svg?url"
                             alt="github" /></a>
                     <a href="https://leetcode.com/u/yordanoswuletaw/" target="_blank"><img src="~/assets/leetcode.svg?url"
